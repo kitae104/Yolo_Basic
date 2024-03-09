@@ -3,3 +3,7 @@
 *.zip
 *.txt
 *.png
+01_basic/demo.mp4
+01_basic/runs/detect/predict2/demo.avi
+*.pt
+*.onnx
