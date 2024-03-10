@@ -7,3 +7,6 @@
 01_basic/runs/detect/predict2/demo.avi
 *.pt
 *.onnx
+03_yolo_pose/runs/pose/predict/son_01.avi
+03_yolo_pose/2.jpeg
+03_yolo_pose/son_01.mp4
