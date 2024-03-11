@@ -3,6 +3,7 @@
 *.zip
 *.txt
 *.png
+<<<<<<< Updated upstream
 01_basic/demo.mp4
 01_basic/runs/detect/predict2/demo.avi
 *.pt
@@ -15,4 +16,11 @@
 02_football/TestVideos/Messi.mp4
 02_football/TestVideos/Ronaldo.mp4
 02_football/TrainingResults/footballDetection2/results.csv
+=======
+*.pt
+*.yaml
+*.cache
+*.mp4
+*.csv
+>>>>>>> Stashed changes
 02_football/TrainingResults/footballDetection2/events.out.tfevents.1709702716.kitae.30712.0
