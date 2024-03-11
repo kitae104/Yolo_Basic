@@ -10,3 +10,9 @@
 03_yolo_pose/runs/pose/predict/son_01.avi
 03_yolo_pose/2.jpeg
 03_yolo_pose/son_01.mp4
+*.yaml
+*.cache
+02_football/TestVideos/Messi.mp4
+02_football/TestVideos/Ronaldo.mp4
+02_football/TrainingResults/footballDetection2/results.csv
+02_football/TrainingResults/footballDetection2/events.out.tfevents.1709702716.kitae.30712.0
